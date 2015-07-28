@@ -1,4 +1,4 @@
-package se.konferensplattan;
+package se.konferensplattan.api;
 
 import com.opentok.OpenTok;
 import com.opentok.exception.OpenTokException;

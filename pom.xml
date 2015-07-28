@@ -33,9 +33,9 @@
         </dependency>
         <dependency>
             <groupId>org.glassfish.jersey.containers</groupId>
-            <!--artifactId>jersey-container-servlet-core</artifactId-->
+            <artifactId>jersey-container-servlet-core</artifactId>
             <!-- use the following artifactId if you don't need servlet 2.x compatibility -->
-            <artifactId>jersey-container-servlet</artifactId>
+            <!--artifactId>jersey-container-servlet</artifactId-->
             <version>${jersey.version}</version>
         </dependency>
         <!-- uncomment this to get JSON support -->

@@ -1,4 +1,4 @@
-package se.konferensplattan;
+package se.konferensplattan.api;
 
 /**
  * TODO: Describe purpose
