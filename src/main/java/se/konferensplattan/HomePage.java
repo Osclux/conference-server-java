@@ -22,6 +22,7 @@ public class HomePage extends WebPage {
 
         // Add the simplest type of label
         add(new Label("message", "If you see this message wicket is properly configured and running"));
+        add(new Label("newMessage", "Oscar was here!"));
 
         // TODO Add your page's components here
     }
